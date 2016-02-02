@@ -1,5 +1,5 @@
 {
-  "name": "zone.js",
+  "name": "tb.zone.js",
   "version": "0.5.13",
   "description": "Zones for JavaScript",
   "main": "build/lib/zone.js",
